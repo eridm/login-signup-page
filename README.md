@@ -6,7 +6,7 @@ Description: A sliding Login and/or Sign Up Page that can be toggled from left a
 # Acknowledgements
 
 <a href ="https://www.youtube.com/c/TraversyMedia" target="_blank">Traversy Media on Youtube</a><br>
-Youtube tutorial <a href=""https://www.youtube.com/watch?v=mUdo6w87rh4&t=98s" target="_blank">Link</a>
+Youtube tutorial <a href="https://www.youtube.com/watch?v=mUdo6w87rh4&t=98s" target="_blank">Link</a>
 <br><br>
 
 <a href ="https://www.youtube.com/c/FlorinPop" target="_blank">Florin Pop on Youtube</a><br>
